@@ -1,3 +1,1 @@
-print("Hellogit")
-
-print("Hola")
+print("New Hellogit")
